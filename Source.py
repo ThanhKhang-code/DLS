@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # ================= CONFIG =================
-GITHUB_PAT = ""
+GITHUB_PAT = "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"
 
 FREEZE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/FreezeObfuscated.lua"
 SOURCE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/SourceObfuscated.lua"
