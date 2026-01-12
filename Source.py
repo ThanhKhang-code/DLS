@@ -6,9 +6,9 @@ from datetime import datetime
 # ================= CONFIG =================
 GITHUB_PAT = "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"
 
-FREEZE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/FreezeObfuscated.lua"
-SOURCE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/SourceObfuscated.lua"
-WHITELIST_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/Whitelist.txt"
+FREEZE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/DLS/FreezeObfuscated.lua"
+SOURCE_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/DLS/SourceObfuscated.lua"
+WHITELIST_URL = "https://raw.githubusercontent.com/ThanhKhang-code/DLS/main/DLS/Whitelist.txt"
 
 XOR_KEY = b"GG_SECRET_KEY"
 LICENSE_KEY = b"Khang_DLS_2026"
